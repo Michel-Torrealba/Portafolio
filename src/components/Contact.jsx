@@ -17,7 +17,7 @@ function Contact() {
           </p>
         </div>
         <form
-          action="hhttps://getform.io/f/5b422c6e-f362-4c96-adea-677bcc4dc11f"
+          action="https://getform.io/f/5b422c6e-f362-4c96-adea-677bcc4dc11f"
           method="POST"
         >
           <div className="lg:w-1/2 md:w-2/3 mx-auto">
