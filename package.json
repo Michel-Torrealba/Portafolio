@@ -1,6 +1,5 @@
 {
-  "homepage": "https://Michel-Torrealba.github.io/Portafolio",
-  "name": "portafolio-cv",
+  "name": "portafolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
