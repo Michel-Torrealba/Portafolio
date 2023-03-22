@@ -33,7 +33,7 @@ function Home() {
             </Link>
             <a
               target="_blank"
-              href=""             
+              href="https://www.canva.com/design/DAFd4T6d8h0/FrDZGrcUY0rIyzNhNV1Njw/view?utm_content=DAFd4T6d8h0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"             
               smooth
               duration={500}
               className="text-xl  mx-5 group text-zinc-50 w-fit px-6 py-3 flex items-center rounded-md bg-gradient-to-r from-slate-900 to-emerald-500 hover:cursor-pointer"

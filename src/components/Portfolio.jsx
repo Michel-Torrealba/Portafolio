@@ -2,16 +2,28 @@ import React from "react";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import seshat from "../assets/portfolio/seshat.png";
 import rickAndMorty from "../assets/portfolio/rickAndMorty.png";
+import Calculadora from "../assets/portfolio/calculadora.jpeg";
 
 
 function Portfolio() {
   const portfolios = [
     
     {
+      text: "A calculator, created to do the basic operations of mathematics.",
+      style: "shadow-indigo-500",
+      title: "Calculadora",
+      id: 3,
+      src: Calculadora,
+      demo: "https://seshat-react.vercel.app/",
+      gradient: "to-indigo-500",
+      code: "https://michel-torrealba.github.io/Calculadora/",
+    },
+    
+    {
       text: "Pagina web consumiendo api de rick y morty utilizando la API de https://rickandmortyapi.com/",
       style: "shadow-red-500",
       title: "Info Mortys",
-      id: 4,
+      id: 1,
       src: rickAndMorty,
       gradient: "to-red-500",
     },
@@ -20,12 +32,14 @@ function Portfolio() {
       text: "Seshat es una plataforma del mundo social basada en narrativas",
       style: "shadow-indigo-500",
       title: "Seshat",
-      id: 6,
+      id: 2,
       src: seshat,
       demo: "https://seshat-react.vercel.app/",
       gradient: "to-indigo-500",
       code: "https://github.com/SeshatWriters/seshat-react",
     },
+
+    
   ];
 
   return (
