@@ -33,6 +33,7 @@ function Home() {
             </Link>
             <a
               target="_blank"
+              rel="noreferrer"
               href="https://www.canva.com/design/DAFd4T6d8h0/FrDZGrcUY0rIyzNhNV1Njw/view?utm_content=DAFd4T6d8h0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"             
               smooth
               duration={500}
