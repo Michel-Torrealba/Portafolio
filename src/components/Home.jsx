@@ -15,7 +15,7 @@ function Home() {
           Front End Developer
           </h2>
           <p className="text-zinc-300 py-4 max-w-md">
-            Hi! Mi name is Genesis, I am a Full Stack developer, oriented more to the
+            Hi! Mi name is Michel, I am a Full Stack developer, oriented more to the
             Front End. I love creating websites that provide a unique and satisfying user experience, 
             not only visually but also functionally.
           </p>
