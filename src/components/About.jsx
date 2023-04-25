@@ -14,7 +14,7 @@ function About() {
         </div>
         <p className="text-xl mt-20">
           I am a self-taught person, responsible and committed to my work. Daily I am learning new technologies and tools to improve my skills. <br />
-          I am 23 years old, I am from Venezuela, passionate about web development, video game development, reading and sports.
+          I am 23 years old, I am from Colombia, passionate about web development, video game development, reading and sports.
           <br />
           Business development and administration student.
         </p>
